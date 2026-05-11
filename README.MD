@@ -12,3 +12,4 @@ Status: Em progresso ⏳
 Abaixo está a lista das linguagens exploradas até agora, organizadas por ordem de conclusão:
 
 - Python
+- JAVA
