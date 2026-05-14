@@ -13,3 +13,5 @@ Abaixo está a lista das linguagens exploradas até agora, organizadas por ordem
 
 - Python
 - JAVA
+- JAVASCRIPT
+- C
